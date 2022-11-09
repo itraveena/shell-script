@@ -1,4 +1,5 @@
-#this should not show in the paragraph
+#! /bin/sh
+#this should not show in the paragraph.
 
 #
-echo hello this is java
+echo hello this is java.
