@@ -1,0 +1,8 @@
+read num
+
+if [ `expr $num /% 3` -eq 0 ] 
+then
+	echo "divisible by 0"
+else
+	ehco not diviisble by 0
+fi
