@@ -1,4 +1,4 @@
 #! /bin/sh
 read a b c
-d=`expr c = $b = $a`
+d=$b$c
 echo $d
