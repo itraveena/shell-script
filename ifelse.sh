@@ -1,11 +1,10 @@
-#! /bin/bash
-
+#! /bin/sh
 echo "enter your age"
+read age
 
-read age 
 if [ "$age" -ge 18 ]; then
 
 	echo "you are eligible to vote"
 else
-        echo "you are younger !!"
+        echo "you are younger"
 fi	

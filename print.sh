@@ -1,8 +1,6 @@
 #! /bin/sh
-NAME="ZARA ALI" 
+NAME="Dev Karan Singh"
 readonly NAME
-NAME="Devinder"
 
-==================================
-my doubt is that if i will remove the 2nd name then it is giving me the another output
+echo $NAME
 
